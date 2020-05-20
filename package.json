@@ -1,0 +1,24 @@
+{
+	"name": "biblios-landing",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "npx hrs"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gilbertVirgo/biblios-landing.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gilbertVirgo/biblios-landing/issues"
+	},
+	"homepage": "https://github.com/gilbertVirgo/biblios-landing#readme",
+	"dependencies": {
+		"simple-hot-reload-server": "^1.2.0"
+	}
+}

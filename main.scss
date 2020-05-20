@@ -1,0 +1,136 @@
+@import "sass/variables";
+@import "sass/mixins";
+@import "sass/typefaces";
+
+@import "sass/button";
+@import "sass/card";
+@import "sass/endorsement";
+@import "sass/feature";
+@import "sass/grid";
+@import "sass/header";
+@import "sass/nav";
+@import "sass/section";
+@import "sass/showcase";
+@import "sass/text";
+
+@import "slick/slick";
+@import "slick/slick-theme";
+
+body {
+	margin: 0;
+	font-family: myriad-pro, sans-serif;
+	color: $dark;
+}
+
+.exclude-xs {
+	@media screen and (max-width: $md - 1px) {
+		display: none;
+	}
+}
+
+main {
+	> section {
+		padding: 100px 0;
+	}
+}
+
+#intro-quote {
+	.img-wrap {
+		margin-top: -43px;
+
+		@include breakpoint($md) {
+			width: auto;
+			margin: -198px 0 0 0;
+			grid-column: 1 / 5;
+		}
+	}
+
+	.text-wrap {
+		@include breakpoint($md) {
+			grid-column: 4 / 12;
+		}
+	}
+}
+
+#standalone-quote {
+	.img-wrap {
+		margin-top: -8px;
+
+		@include breakpoint($md) {
+			margin-top: -105px;
+			grid-column: 8 / 13;
+		}
+	}
+
+	.text-wrap {
+		@include breakpoint($md) {
+			grid-column: 2 / 11;
+		}
+	}
+}
+
+#disect {
+	@include breakpoint($md) {
+		.text-wrap {
+			grid-row-start: 1;
+			grid-column: 7 / 13;
+			align-self: center;
+			position: relative;
+			top: -100px;
+		}
+		.img-wrap {
+			grid-row-start: 1;
+			grid-column: 1 / 6;
+		}
+		.btn {
+			grid-row-start: 2;
+			grid-column: 7 / 13;
+			width: 175px;
+
+			position: relative;
+			top: -225px;
+		}
+	}
+}
+
+#outro {
+	background-image: url(assets/outro-xs.png);
+	background-repeat: no-repeat;
+	background-size: 269px 591px;
+	background-position: 0 0;
+	padding-top: calc(591px + 100px);
+
+	@include breakpoint($md) {
+		position: relative;
+		height: 591px;
+
+		background-color: $light;
+		background-size: calc(50% - 10px) auto;
+		padding-top: 0;
+		padding-bottom: 0;
+
+		display: flex;
+		align-items: center;
+
+		> .grid > .text-wrap {
+			grid-column-start: 7;
+			grid-column-end: 13;
+		}
+	}
+
+	@include breakpoint($lg) {
+		background-image: url(assets/outro.png);
+	}
+}
+
+#faq {
+	padding-bottom: 0;
+
+	h5 {
+		margin-bottom: 20px;
+	}
+
+	.card-wrap {
+		grid-column: 2 / 12 !important;
+	}
+}

@@ -1,0 +1,34 @@
+.grid {
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	column-gap: 15px;
+	margin: 0 20px;
+
+	@include breakpoint($md) {
+		margin: 0 auto;
+		width: 100%;
+		max-width: 940px;
+		grid-template-columns: repeat(12, 1fr);
+	}
+
+	.text-wrap,
+	.img-wrap {
+		grid-column-start: 1;
+		grid-column-end: -1;
+
+		&.center {
+			text-align: center;
+		}
+	}
+
+	&.fixed {
+		max-width: 400px;
+		padding-left: 20px;
+		padding-right: 20px;
+		margin: 0 auto;
+
+		@include breakpoint($md) {
+			max-width: 940px;
+		}
+	}
+}

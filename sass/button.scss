@@ -1,0 +1,26 @@
+.btn {
+	appearance: none;
+	background-color: transparent;
+	border-width: 1px;
+	border-style: solid;
+	border-color: $orange;
+	color: $orange;
+	font-weight: bold;
+
+	padding: 20px 30px;
+
+	&.small {
+		padding: 15px 30px;
+	}
+
+	&.cta {
+		grid-column-start: 2;
+		grid-column-end: 6;
+
+		display: flex;
+		align-items: center;
+		span {
+			flex: 1;
+		}
+	}
+}
