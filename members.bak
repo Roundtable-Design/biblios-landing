@@ -1,0 +1,181 @@
+<main>
+<section>
+<div class="grid skinny text-block" id="title-wrap">
+<h1 id="session-number">Session <!-- session number --></h1>
+<!-- <h2 style="margin-bottom: 30px;">
+				The decline and fall of Israel and Judah
+			</h2> -->
+<h5>Video resources</h5>
+</div>
+<div class="grid skinny text-block" id="awkward-title-wrap">
+<h1 id="awkward-title"></h1>
+</div>
+<div class="grid cards skinny" id="videos-wrap"><!-- <div class="card plain">
+				<div class="media-wrap">
+					<iframe
+						src="https://player.vimeo.com/video/417953068"
+						frameborder="0"
+						allow="autoplay; fullscreen"
+						allowfullscreen
+					></iframe>
+				</div>
+				<h4><b>1</b> The decline and fall of Israel and Judah</h4>
+				<a
+					href="https://vimeo.com/user115305836/download/417953068/1c59829b0b#"
+				>
+					<div class="button small" data-variant="dark">
+						<span>
+							DOWNLOAD
+						</span>
+						<img
+							src="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/arrow-down.svg?v=1591109646"
+						/>
+					</div>
+				</a>
+			</div> --></div>
+</section>
+<section id="reading-plan">
+<div class="grid cards max-2">
+<div class="card plain">
+<h5>Reading Plan</h5>
+<h3 id="title"><!-- title --></h3>
+<h4 id="passages"></h4>
+<h3><b>Memory verse</b> <span id="memory-verse" style="font-weight: 300;"> <!-- memory verse --> </span></h3>
+</div>
+<div class="card plain">
+<h5>Maps</h5>
+<div id="maps-wrap"></div>
+</div>
+</div>
+</section>
+</main>
+<script>// <![CDATA[
+	function toRomanNumeral(number) {
+		switch(number) {
+			case 1: return "I";
+			case 2: return "II";
+			case 3: return "III";
+			default: console.error("Roman numeral error!");
+		}
+
+		// Only for this simple case
+	}
+
+	async function fetchSessionData() {
+		// Get id from query params
+		const queryParams = new URLSearchParams(window.location.search);
+		const id = queryParams.get("id");
+
+		if(id) {
+			// Get sessions.json file
+			const res = await fetch(
+				"//cdn.shopify.com/s/files/1/0273/5754/4471/t/1/assets/sessions.json?v=168630068775688508",
+				{
+					method: "GET",
+				}
+			);
+			const allSessionData = await res.json();
+
+			// Find specific session in JSON
+			const sessionData = allSessionData.find((session) => session.id == id);
+
+			// N.B. `awkward` sessions are the anomalys. They're
+			// not normal sessions, so don't have reading plans
+			// and some other things. e.g. What's Next or Taster
+			if(!sessionData.awkward) {
+				// Save current session in localStorage
+				if(window.hasOwnProperty("localStorage")) {
+					localStorage.setItem("lastSession", id);
+				}
+
+				$("#title").text(sessionData.title);
+				$("#awkward-title-wrap").hide();
+				$("#session-number").append(" " + sessionData.id);
+				sessionData.videos.forEach(([videoId, shareId], index) => {
+					console.log([videoId, shareId]);
+
+					$("#videos-wrap").append(`
+					<div class="card plain">
+						<div class="media-wrap">
+							<iframe
+								src="https://player.vimeo.com/video/${videoId}"
+								frameborder="0"
+								allow="autoplay; fullscreen"
+								allowfullscreen
+							></iframe>
+						</div>
+						<h3>Clip ${toRomanNumeral(index + 1)}</h3>
+						<a
+							href="https://vimeo.com/user115305836/download/${videoId}/${shareId}"
+						>
+							<div class="button small" data-variant="dark">
+								<span>
+									DOWNLOAD
+								</span>
+								<img
+									src="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/arrow-down.svg?v=1591109646"
+								/>
+							</div>
+						</a>
+					</div>
+					`);
+				});
+				$("#passages").html(sessionData.passages);
+				$("#memory-verse").text(sessionData.memoryVerse);
+				
+				sessionData.maps.forEach(([thumb, pdf]) => {
+					$("#maps-wrap").append(`
+						<div style="margin-bottom: 30px;">
+							<img src="${thumb}" style="display: block; width: 100%; margin-bottom: 15px" />
+							<a href="${pdf}" target="_blank"><!-- download attr didn't work... -->
+								<div class="button small" data-variant="dark">
+									<span>
+										DOWNLOAD
+									</span>
+									<img
+										src="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/arrow-down.svg?v=1591109646"
+									/>
+								</div>
+							</a>
+						</div>
+					`);
+				});
+			} else {
+				$("#title-wrap").hide();
+				$("#reading-plan").hide();
+				console.log({title: sessionData.title})
+				$("#awkward-title").text(sessionData.title)
+
+				$("#videos-wrap").append(`
+					<div class="card plain">
+						<div class="media-wrap">
+							<iframe
+								src="https://player.vimeo.com/video/${sessionData.videos[0][0]}"
+								frameborder="0"
+								allow="autoplay; fullscreen"
+								allowfullscreen
+							></iframe>
+						</div>
+						<a
+							href="https://vimeo.com/user115305836/download/${sessionData.videos[0][0]}/${sessionData.videos[0][1]}"
+						>
+							<div class="button small" data-variant="dark">
+								<span>
+									DOWNLOAD
+								</span>
+								<img
+									src="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/arrow-down.svg?v=1591109646"
+								/>
+							</div>
+						</a>
+					</div>
+				`);
+			}
+		} else {
+			// If no id specified, redirect to Session 1
+			window.location.assign("/pages/sessions?id=1");
+		}
+	}
+
+	window.onload = fetchSessionData;
+// ]]></script>

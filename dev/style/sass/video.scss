@@ -1,0 +1,14 @@
+@import "base";
+
+.video {
+	h4 {
+		height: 60px;
+		margin-bottom: 20px;
+	}
+
+	@extend .card-base;
+
+	.button {
+		font-size: 12px;
+	}
+}

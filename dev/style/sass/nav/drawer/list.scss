@@ -1,0 +1,28 @@
+@import "../../base";
+@import "../../text";
+
+.custom-drawer .list {
+	@extend .destructured;
+
+	.outer {
+		@extend .caps;
+
+		&.hide-lg {
+			margin-bottom: 10px;
+		}
+	}
+
+	.item {
+		padding: 3px 40px;
+
+		&.alt > p {
+			font-weight: 300 !important;
+		}
+	}
+
+	&.sub .item {
+		&:hover {
+			background-color: $mid;
+		}
+	}
+}

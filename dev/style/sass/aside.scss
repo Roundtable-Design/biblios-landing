@@ -1,0 +1,27 @@
+.grid.asides {
+	row-gap: 75px;
+
+	.aside {
+		h2 {
+			font-style: italic;
+		}
+
+		@include breakpoint($xs, $md - 1px) {
+			&:nth-child(even) {
+				grid-column: 1 / 6;
+			}
+			&:nth-child(odd) {
+				grid-column: 2 / 7;
+			}
+		}
+
+		@include breakpoint($md) {
+			&:nth-child(even) {
+				grid-column: 2 / 8;
+			}
+			&:nth-child(odd) {
+				grid-column: 6 / 12;
+			}
+		}
+	}
+}

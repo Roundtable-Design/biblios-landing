@@ -1,0 +1,48 @@
+@import "../../base";
+
+#sub-drawer {
+	padding: 0;
+	pointer-events: none;
+	display: none;
+	font-weight: bold;
+	position: relative;
+	margin-top: -10px;
+	margin-bottom: 20px;
+
+	.list {
+		@extend .destructured;
+	}
+
+	#spine-title {
+		display: none;
+		transition: 0.23s opacity;
+
+		@include breakpoint($lg) {
+			display: block;
+			padding: 0;
+			transform: rotate(90deg);
+			position: absolute;
+			right: -36px;
+			top: 30px;
+		}
+	}
+
+	&.active {
+		display: block;
+	}
+
+	@include breakpoint($lg) {
+		display: block !important;
+		margin-top: 0;
+
+		p {
+			font-weight: 600;
+			text-transform: none;
+			cursor: pointer;
+		}
+
+		.item:hover {
+			background-color: $mid;
+		}
+	}
+}

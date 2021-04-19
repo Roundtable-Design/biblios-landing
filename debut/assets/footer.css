@@ -1,0 +1,234 @@
+@font-face {
+  font-family: "MoolBoran";
+  src: url("MoolBoran.ttf") format("truetype");
+  /* Safari, Android, iOS */
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0 0 5px;
+}
+h1:not(.home-banner), h1:not(.title),
+h2:not(.home-banner),
+h2:not(.title),
+h3:not(.home-banner),
+h3:not(.title),
+h4:not(.home-banner),
+h4:not(.title),
+h5:not(.home-banner),
+h5:not(.title),
+h6:not(.home-banner),
+h6:not(.title),
+p:not(.home-banner),
+p:not(.title) {
+  font-family: "myriad-pro", sans-serif !important;
+}
+
+h1,
+h2 {
+  font-size: 42px;
+  line-height: 52px;
+}
+
+h3,
+h4 {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+h2,
+h4,
+h6 {
+  font-weight: 300;
+}
+
+h5,
+h6 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.body-text {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.caps {
+  letter-spacing: 1.2px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+}
+
+a {
+  cursor: pointer;
+  color: inherit;
+  font-weight: 600;
+  padding-bottom: 2px;
+  text-decoration: none;
+}
+a:not(.no-underline) {
+  border-bottom: 1px solid #163d47;
+}
+
+.orange {
+  color: #e46f5a;
+  border-color: #e46f5a !important;
+}
+
+.grid.text-block {
+  grid-template-columns: 1fr;
+  margin-bottom: 30px;
+  row-gap: 0px;
+}
+.grid.text-block.center {
+  text-align: center;
+}
+
+.ellipsis {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 200px;
+}
+
+[data-toggle-ellipsis] {
+  cursor: pointer;
+  font-weight: bold;
+}
+[data-toggle-ellipsis]::before {
+  content: "See more";
+}
+[data-toggle-ellipsis].active::before {
+  content: "See less";
+}
+[data-toggle-ellipsis].active img {
+  display: none;
+}
+[data-toggle-ellipsis][data-toggle-ellipsis-text-change=false]::before {
+  content: "See more" !important;
+}
+[data-toggle-ellipsis][data-toggle-ellipsis-text-change=false] img {
+  display: initial;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  column-gap: 15px;
+  row-gap: 30px;
+  margin: 0 20px;
+}
+@media screen and (min-width: 800px) and (max-width: 10000px) {
+  .grid {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 940px;
+    grid-template-columns: repeat(12, 1fr);
+  }
+  .grid.skinny {
+    max-width: 620px;
+  }
+}
+.grid.fixed {
+  max-width: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+.grid.fixed .img-wrap {
+  grid-column-start: 1;
+  grid-column-end: -1;
+}
+@media screen and (min-width: 800px) and (max-width: 10000px) {
+  .grid.fixed {
+    max-width: 940px;
+  }
+}
+
+.page-width .grid {
+  grid-template-columns: 1fr !important;
+}
+@media screen and (min-width: 0) and (max-width: 799px) {
+  .page-width .grid {
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 10000px) {
+  .page-width .grid {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+section {
+  overflow-x: hidden;
+  position: relative;
+  padding: 75px 0;
+}
+@media screen and (max-width: 799px) {
+  section {
+    padding: 37.5px 0;
+  }
+}
+section.grey {
+  background-color: #f5f5f5;
+}
+@media screen and (max-width: 0) {
+  section.small-xs {
+    padding: 40px 0;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 10000px) {
+  section {
+    box-sizing: border-box;
+  }
+  section:not(.no-padding) {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+}
+
+footer.grid.custom-footer {
+  background-color: #f5f5f5;
+  flex-direction: column;
+  grid-template-columns: 1fr;
+  align-items: center;
+}
+@media screen and (min-width: 0) and (max-width: 799px) {
+  footer.grid.custom-footer {
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 10000px) {
+  footer.grid.custom-footer {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    grid-template-columns: repeat(12, 1fr);
+  }
+}
+footer.grid.custom-footer .logo {
+  margin-bottom: 15px;
+}
+@media screen and (min-width: 800px) and (max-width: 10000px) {
+  footer.grid.custom-footer .logo {
+    grid-column: 1/7;
+    margin-bottom: 0;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 10000px) {
+  footer.grid.custom-footer .text-block {
+    grid-column: span 3;
+  }
+}
+footer.grid.custom-footer .text-block a {
+  font-style: italic !important;
+  font-weight: bold !important;
+}
+
+/*# sourceMappingURL=footer.css.map */

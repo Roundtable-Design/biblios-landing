@@ -1,0 +1,44 @@
+div.button {
+	appearance: none;
+	background-color: transparent;
+	cursor: pointer;
+
+	display: inline-block;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: $orange;
+	border-radius: 3px;
+
+	color: $orange;
+
+	// @extend .caps;
+	// Or not because the bloody cache won't refresh
+	letter-spacing: 1.2px !important;
+	font-weight: bold !important;
+	text-transform: uppercase !important;
+
+	span,
+	img {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	img {
+		width: 30px !important;
+	}
+
+	padding: 20px 30px;
+
+	&.small {
+		padding: 12px 15px;
+	}
+
+	&[data-variant="dark"] {
+		border: none;
+		background-color: $dark;
+		color: $white;
+
+		box-shadow: 0px 0px 4px rgba(26, 53, 59, 0.5);
+	}
+}

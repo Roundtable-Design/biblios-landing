@@ -1,0 +1,13 @@
+{% if customer %}
+<a class="no-underline" href="/account/logout">
+	<div class="button">
+		LOG OUT
+	</div>
+</a>
+{% else %}
+<a class="no-underline" href="/account/login">
+	<div class="button">
+		LOG IN
+	</div>
+</a>
+{% endif %}

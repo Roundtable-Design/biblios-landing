@@ -1,0 +1,31 @@
+@import "../../text";
+
+.custom-drawer .spine {
+	display: none;
+	height: 100%;
+
+	cursor: pointer;
+
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: inherit;
+	transform: opacity 0.23s;
+	opacity: 1;
+
+	p {
+		position: relative;
+		top: 35px;
+		transform: rotate(90deg);
+
+		font-size: 12px;
+		line-height: 14px;
+		text-align: center;
+
+		@extend .caps;
+	}
+
+	@include breakpoint($lg) {
+		display: block;
+	}
+}

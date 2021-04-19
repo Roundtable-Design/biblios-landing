@@ -1,0 +1,45 @@
+@import "variables";
+@import "mixins";
+@import "typefaces";
+@import "text";
+@import "grid";
+@import "section";
+
+footer.grid.custom-footer {
+	background-color: $light;
+	flex-direction: column;
+	grid-template-columns: 1fr;
+	align-items: center;
+
+	@include breakpoint(0, $md - 1px) {
+		margin-left: 15px !important;
+		margin-right: 15px !important;
+	}
+
+	@include breakpoint($md) {
+		margin-left: auto !important;
+		margin-right: auto !important;
+
+		grid-template-columns: repeat(12, 1fr);
+	}
+
+	.logo {
+		@include breakpoint($md) {
+			grid-column: 1 / 7;
+			margin-bottom: 0;
+		}
+
+		margin-bottom: 15px;
+	}
+
+	.text-block {
+		@include breakpoint($md) {
+			grid-column: span 3;
+		}
+
+		a {
+			font-style: italic !important;
+			font-weight: bold !important;
+		}
+	}
+}

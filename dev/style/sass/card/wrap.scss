@@ -1,0 +1,45 @@
+.grid.cards {
+	grid-template-columns: 1fr;
+	transition: transform 0.23s, opacity 0.23s, height 0.23s;
+
+	transform: translateY(0);
+	opacity: 1;
+
+	&.hide {
+		@include breakpoint($md) {
+			transform: translateY(-50px);
+			opacity: 0;
+			height: 500px;
+		}
+	}
+
+	&.split {
+		column-gap: 45px;
+	}
+
+	&:not(.skinny) {
+		@include breakpoint($sm, $md - 1px) {
+			&.v-shape {
+				.card:nth-child(3) {
+					left: 50%;
+				}
+			}
+		}
+
+		@include breakpoint($sm) {
+			grid-template-columns: 1fr 1fr;
+		}
+
+		@include breakpoint($md) {
+			&.min-3 {
+				grid-template-columns: 1fr 1fr 1fr;
+			}
+		}
+
+		@include breakpoint($lg) {
+			&:not(.max-2) {
+				grid-template-columns: 1fr 1fr 1fr;
+			}
+		}
+	}
+}

@@ -1,0 +1,124 @@
+<nav id="main-navbar">
+	<div class="inner">
+		<div class="logo-wrap">
+			<a href="/" class="no-underline">
+				<img
+					class="logo"
+					src="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/logo.svg?v=1591109646"
+			/></a>
+		</div>
+		<div class="nav-icon-wrap" data-state="closed">
+			<div
+				id="nav-burger"
+				class="icon-hitbox"
+				data-trigger="#main-drawer"
+			>
+				<img
+					src="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/burger.svg?v=1591109645"
+				/>
+			</div>
+			<div id="nav-exit" class="icon-hitbox">
+				<img
+					src="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/exit.svg?v=1591109645"
+				/>
+			</div>
+		</div>
+
+		<div class="item">
+			<a class="no-underline" href="/blogs/news">Blog</a>
+		</div>
+
+		{% unless customer %}
+		<div class="item">
+			<a class="no-underline" href="/pages/video-content">Videos</a>
+		</div>
+		{% endunless %}
+
+		{% if customer %}
+		<div class="item">
+			<a id="sessions-link"
+				class="no-underline"
+				data-trigger="#main-drawer"
+				href="/pages/sessions?id=1"
+				>Sessions</a
+			>
+		</div>
+		{% endif %}
+
+		<div class="item">
+			<a class="no-underline" href="/pages/story">Our Story</a>
+		</div>
+
+		<div class="item">
+			{% include "login-logout-button" %}
+		</div>
+	</div>
+</nav>
+
+<nav class="custom-drawer {% unless handle contains "sessions" %} hide-lg {% endunless %}" id="main-drawer" >
+	<ul class="list">
+		<li class="item outer hide-lg">
+			<a href="/blogs/news" class="no-underline">
+			<p>Blog</p></a>
+		</li>
+		{% unless customer %}
+		<li class="item outer hide-lg">
+			<a href="/pages/video-content" class="no-underline">
+			<p>Videos</p></a>
+		</li>
+		{% endunless %}
+		{% if customer %}
+		<li class="item outer hide-lg" data-trigger="#sub-drawer">
+			<p>Sessions</p>
+		</li>
+		<li class="item" id="sub-drawer">
+			<ul class="list sub">
+				<a class="no-underline" href="/pages/sessions?id=0"><li class="item alt"><p>Taster</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=1"><li class="item"><p>Session 1</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=2"><li class="item"><p>Session 2</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=3"><li class="item"><p>Session 3</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=4"><li class="item"><p>Session 4</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=5"><li class="item"><p>Session 5</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=6"><li class="item"><p>Session 6</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=7"><li class="item"><p>Session 7</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=8"><li class="item"><p>Session 8</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=9"><li class="item"><p>Session 9</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=10"><li class="item"><p>Session 10</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=11"><li class="item"><p>Session 11</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=12"><li class="item"><p>Session 12</p></li></a>
+				<a class="no-underline" href="/pages/sessions?id=13"><li class="item alt"><p>What's next?</p></li></a>
+				<a class="no-underline" href="https://cdn.shopify.com/s/files/1/0273/5754/4471/files/Biblios_Print_Outs.zip?v=1591967452" download><li class="item"><p>Download printouts&nbsp;<svg width="10" height="13" viewBox="0 0 10 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M4.42632 11.9884C4.66064 12.2227 5.04054 12.2227 5.27485 11.9884L9.09323 8.17001C9.32754 7.9357 9.32754 7.5558 9.09323 7.32148C8.85891 7.08717 8.47901 7.08717 8.2447 7.32148L4.85059 10.7156L1.45647 7.32148C1.22216 7.08717 0.84226 7.08717 0.607945 7.32148C0.373631 7.5558 0.373631 7.9357 0.607945 8.17001L4.42632 11.9884ZM4.25059 0.538483L4.25059 11.5641L5.45059 11.5641L5.45059 0.538483L4.25059 0.538483Z" fill="#163d47"/>
+					</svg></p></li></a>
+			</ul>
+		</li>
+		{% endif %}
+		<li class="item outer hide-lg">
+			<a href="/pages/story" class="no-underline">
+			<p>Our story</p></a>
+		</li>
+		<li class="item outer hide-lg">
+			{% include "login-logout-button" %}
+		</li>
+	</ul>
+
+	<div class="spine" data-trigger="#main-drawer">
+		<p>See&nbsp;sessions</p>
+	</div>
+</nav>
+
+<script>
+	console.log("running script")
+	if(window.hasOwnProperty("localStorage")) {
+		console.log("has localStorage");
+		const lastSession = localStorage.getItem("lastSession");
+		console.log("lastSession", lastSession)
+		if(lastSession) {
+			const amendedURL = `/pages/sessions?id=${lastSession}`
+
+			console.log("Setting `#sessions-link` href to " + amendedURL)
+			document.getElementById("sessions-link").setAttribute("href", amendedURL);
+		}
+	}
+</script>
+<!-- comment -->

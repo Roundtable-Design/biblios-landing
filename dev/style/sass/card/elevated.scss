@@ -1,0 +1,10 @@
+@import "plain";
+
+.elevated {
+	@extend .plain;
+
+	padding: 15px;
+	box-sizing: border-box;
+	background-color: $light;
+	box-shadow: 0 0 4px rgba(89, 90, 89, 0.5);
+}

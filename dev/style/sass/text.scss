@@ -1,0 +1,104 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	&:not(.home-banner),
+	&:not(.title) {
+		font-family: "myriad-pro", sans-serif !important;
+	}
+	margin: 0 0 5px;
+}
+
+h1,
+h2 {
+	font-size: 42px;
+	line-height: 52px;
+}
+
+h3,
+h4 {
+	font-size: 24px;
+	line-height: 30px;
+}
+
+h2,
+h4,
+h6 {
+	font-weight: 300;
+}
+
+h5,
+h6 {
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.body-text {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.caps {
+	letter-spacing: 1.2px !important;
+	font-weight: bold !important;
+	text-transform: uppercase !important;
+}
+
+a {
+	cursor: pointer;
+	color: inherit;
+	font-weight: 600;
+	padding-bottom: 2px;
+	text-decoration: none;
+
+	&:not(.no-underline) {
+		border-bottom: 1px solid $dark;
+	}
+}
+
+.orange {
+	color: $orange;
+	border-color: $orange !important;
+}
+
+.grid.text-block {
+	grid-template-columns: 1fr;
+	margin-bottom: 30px;
+	row-gap: 0px;
+
+	&.center {
+		text-align: center;
+	}
+}
+
+.ellipsis {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	width: 200px;
+}
+
+[data-toggle-ellipsis] {
+	cursor: pointer;
+	font-weight: bold;
+	&::before {
+		content: "See more";
+	}
+	&.active::before {
+		content: "See less";
+	}
+	&.active img {
+		display: none;
+	}
+	&[data-toggle-ellipsis-text-change="false"] {
+		&::before {
+			content: "See more" !important;
+		}
+		img {
+			display: initial;
+		}
+	}
+}

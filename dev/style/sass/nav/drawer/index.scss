@@ -1,0 +1,48 @@
+@import "list";
+@import "spine";
+@import "sub";
+
+.custom-drawer {
+	z-index: 10;
+	padding: 40px 0;
+	position: fixed;
+	top: $nav-height;
+	// bottom: 0;
+	left: 0;
+	width: 100%;
+	max-height: calc(100vh - $nav-height);
+	overflow: scroll;
+	text-align: center;
+
+	transition: transform 0.23s;
+	transform: translateY(-100%);
+	background-color: $light;
+	box-shadow: 1px -2px 3px rgba(0, 0, 0, 0.25);
+
+	@include breakpoint($lg) {
+		$list-width: 200px;
+		$spine-width: 50px;
+
+		transform: translateX(#{$spine-width - $list-width});
+		width: $list-width;
+		min-height: 100vh;
+		text-align: left;
+
+		.spine {
+			width: $spine-width;
+		}
+	}
+
+	&.active {
+		transform: translate(0, 0);
+
+		.list {
+			pointer-events: all;
+		}
+
+		.spine {
+			opacity: 0;
+			cursor: auto;
+		}
+	}
+}

@@ -1,0 +1,56 @@
+@import "elevated";
+
+.grid.expanded-card {
+	@extend .card, .elevated;
+
+	@include breakpoint($md) {
+		display: grid;
+
+		height: 490px;
+
+		position: absolute !important;
+		// Account for padding too
+		bottom: calc(75px + 5px);
+
+		transition: transform 0.23s, opacity 0.23s;
+
+		pointer-events: none;
+		opacity: 0;
+		transform: translateY(50px);
+
+		&.show {
+			pointer-events: all;
+			opacity: 1;
+			transform: translate(0);
+		}
+
+		.exit-wrapper {
+			position: absolute;
+			top: 0;
+			right: 0;
+			width: 50px;
+			height: 50px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			img {
+				width: 20px;
+				height: 20px;
+			}
+		}
+
+		.image {
+			grid-column: 1 / 7;
+			background-size: cover;
+			height: 100%;
+			margin-bottom: 0;
+		}
+		.text-wrap {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			grid-column: 8 / 13;
+		}
+	}
+}

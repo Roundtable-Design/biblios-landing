@@ -1,0 +1,43 @@
+@import "elevated";
+@import "expanded";
+@import "plain";
+@import "wrap";
+
+.cards-expandable {
+	[data-role="one"] {
+		// initial state
+		display: none;
+		opacity: 0;
+		transform: translateY(-30px);
+	}
+
+	&,
+	[data-role="many"],
+	[data-role="one"] {
+		transition: 180ms all;
+	}
+
+	// animation states
+	&.hide-cards {
+		[data-role="many"] {
+			opacity: 0;
+			transform: translateY(-30px);
+		}
+	}
+
+	&.extend-container {
+		[data-role="many"] {
+			display: none;
+		}
+		[data-role="one"] {
+			display: block;
+		}
+	}
+
+	&.show-extended {
+		[data-role="one"] {
+			opacity: 1;
+			transform: translateY(0);
+		}
+	}
+}

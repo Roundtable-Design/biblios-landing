@@ -1,0 +1,32 @@
+.endorsement {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 0 23px;
+	width: 221px;
+
+	@include breakpoint($md) {
+		padding: 0 70px;
+	}
+
+	img {
+		width: 215px !important;
+		height: 215px !important;
+		// object-fit: cover;
+		display: block;
+		margin-bottom: 25px;
+	}
+
+	p,
+	h5 {
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	p {
+		font-style: italic;
+		font-weight: 300;
+	}
+}

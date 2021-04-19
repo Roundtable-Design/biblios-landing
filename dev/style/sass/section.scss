@@ -1,0 +1,41 @@
+section {
+	overflow-x: hidden;
+	position: relative;
+	padding: 75px 0;
+
+	@media screen and (max-width: $md - 1px) {
+		padding: 37.5px 0;
+	}
+
+	&.grey {
+		background-color: $light;
+	}
+
+	&.small-xs {
+		@media screen and (max-width: $xs) {
+			padding: 40px 0;
+		}
+	}
+
+	@include breakpoint($md) {
+		&:not(.no-padding) {
+			padding-left: 15px !important;
+			padding-right: 15px !important;
+		}
+		box-sizing: border-box;
+	}
+
+	// .iframe-wrapper {
+	// 	display: flex;
+	// 	justify-content: center;
+	// 	margin: 0 auto;
+	// 	width: 100%;
+
+	// 	@include breakpoint($md) {
+	// 		width: $md;
+	// 	}
+	// 	@include breakpoint($lg) {
+	// 		width: $lg;
+	// 	}
+	// }
+}

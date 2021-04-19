@@ -1,0 +1,24 @@
+.card-base {
+	flex: 1;
+	position: relative;
+	margin-bottom: 50px;
+
+	@include breakpoint($md) {
+		&:not(:first-child) {
+			margin-left: 20px;
+		}
+	}
+}
+
+// For ul/ol
+.destructured {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.hide-lg {
+	@include breakpoint($lg) {
+		display: none;
+	}
+}

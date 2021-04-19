@@ -1,0 +1,109 @@
+@import "base";
+
+.card-wrap {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	@include breakpoint($md) {
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-evenly;
+	}
+
+	.showcase {
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin-bottom: 80px;
+
+		.img-wrap {
+			margin-bottom: 40px;
+			img {
+				display: block;
+			}
+		}
+		p {
+			max-width: 260px;
+		}
+	}
+
+	.card {
+		background-color: $light;
+		padding: 15px;
+		box-sizing: border-box;
+		box-shadow: 0px 0px 4px rgba(89, 90, 89, 0.5);
+
+		img:first-child {
+			width: 100%;
+			margin-bottom: 15px;
+		}
+
+		@extend .card-base;
+	}
+}
+
+.card-extended {
+	// initial state
+	display: none;
+	opacity: 0;
+	transform: translateY(-30px);
+
+	> .inner {
+		background-color: $light;
+		padding: 15px;
+		box-shadow: 0px 0px 4px rgba(89, 90, 89, 0.5);
+
+		grid-column: 1 / -1;
+
+		padding: 15px;
+		box-sizing: border-box;
+
+		transition: all 0.3s;
+		opacity: 0;
+		transform: translateY(-50px);
+
+		display: flex;
+		opacity: 1;
+		transform: translateY(0);
+
+		.exit-wrapper {
+			cursor: pointer;
+			position: absolute;
+			top: 30px;
+			right: 30px;
+
+			img {
+				width: 20px;
+				height: 20px;
+				display: block;
+			}
+		}
+
+		.img-wrap {
+			flex: 1;
+
+			img {
+				display: block;
+				width: 100%;
+			}
+		}
+		.text-wrap {
+			flex: 1;
+
+			display: flex;
+			align-items: center;
+
+			h5,
+			h6,
+			p {
+				margin-bottom: 13px;
+			}
+
+			.inner {
+				margin: 0 75px;
+			}
+		}
+	}
+}

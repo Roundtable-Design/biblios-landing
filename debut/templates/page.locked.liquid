@@ -1,0 +1,13 @@
+{% if customer.id != null %}
+{{ page.content }}
+{% else %}
+<section>
+	<div class="grid text-block">
+		<h1>This content is protected</h1>
+		<h4>Please login to continue</h4>
+	</div>
+	<div class="grid text-block">
+		{% include "login-logout-button" %}
+	</div>
+</section>
+{% endif %}

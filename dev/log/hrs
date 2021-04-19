@@ -1,0 +1,1404 @@
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs
+
+/Users/gilbertvirgo/biblios-landing register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs "/dev"
+
+/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/iframe.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/iframe.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/iframe.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/iframe.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/iframe.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/team.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/cards.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/home.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/style/main.css => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/drawer.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/pages/members.html => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/jquery.min.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/jquery.min.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/slick.min.js => change
+Detected file's change: /Users/gilbertvirgo/biblios-landing/dev/js/slick.min.js => change
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
+
+> biblios-landing@1.0.0 start /Users/gilbertvirgo/biblios-landing
+> npx hrs ./dev
+
+/Users/gilbertvirgo/biblios-landing/dev register on /
+Server Address: http://localhost:8082
+Map Data  ->  http://localhost:8082/__hrs__/map
+File View  ->  http://localhost:8082/__hrs__/file
