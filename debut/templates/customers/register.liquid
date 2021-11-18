@@ -94,6 +94,12 @@
 				</span>
 				{%- endif -%}
 
+				<input
+					type="hidden"
+					name="checkout_url"
+					value="/pages/sessions?id=1"
+				/>
+
 				<p class="text-center">
 					<input
 						type="submit"
@@ -109,6 +115,10 @@
 </div>
 
 <script>
+	console.log("LATEST");
+</script>
+
+<!-- <script>
 	jQuery(function () {
 		jQuery("#create_customer").submit(function (event) {
 			event.preventDefault();
@@ -125,10 +135,10 @@
 						jQuery("#create_customer .errors").html(logErrors);
 						jQuery("#create_customer .errors").show();
 
-						//if account creation is successful show checkout page
+						//if account creation is successful...
 					} else {
 						console.log("success");
-						document.location.href = "/sessions";
+						document.location.href = "/pages/sessions?id=1";
 					}
 				})
 				.fail(function () {
@@ -137,4 +147,4 @@
 			return false;
 		});
 	});
-</script>
+</script> -->

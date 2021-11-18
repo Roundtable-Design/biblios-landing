@@ -198,6 +198,25 @@
 			</main>
 		</div>
 
+		<script>
+			(function () {
+				var REDIRECT_PATH = "/pages/sessions?id=1";
+
+				var selector =
+						'#create_customer, form[action$="/account"][method="post"]',
+					$form = document.querySelectorAll(selector)[0];
+
+				// redirect
+				if ($form) {
+					$redirect = document.createElement("input");
+					$redirect.setAttribute("name", "return_to");
+					$redirect.setAttribute("type", "hidden");
+					$redirect.value = REDIRECT_PATH;
+					$form.appendChild($redirect);
+				}
+			})();
+		</script>
+
 		{%include 'footer'%}
 	</body>
 
@@ -229,6 +248,27 @@
 	{{
 		"ellipsis.js" | asset_url | script_tag
 	}}
+
+	<!-- Handle registration redirect
+	<script>
+		$(document).ready(function () {
+			var $returnTo = $(
+				'<input type="hidden" name="return_to" value="/pages/sessions?id=1" />'
+			);
+
+			if ($("#create_customer").length > 0) {
+				//if registration form
+				$returnTo.insertBefore(
+					$('#create_customer input[type="submit"]')
+				); // add return_to input
+			} else if ($("#g-recaptcha").length) {
+				//if captcha form
+				$returnTo.insertBefore(
+					$('.shopify-challenge__container input[type="submit"]')
+				);
+			}
+		});
+	</script> -->
 
 	<script>
 		if (typeof init === "function") init();
